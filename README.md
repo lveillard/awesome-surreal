@@ -94,6 +94,7 @@ If you want to contribute to this list, then please read the [contributing guide
 
 ## Client libraries
 - [awaited-surrealdb](https://github.com/theopensource-company/awaited-surrealdb) - Typescript wrapper for surrealdb.js that holds queries until connection is established.
+- [Blitz-ORM](https://github.com/Blitzapps/blitz-orm) - TypeScript ORM for graph databases, compatible with SurrealDB and TypeDB, utilizing a JSON-based query language similar to GraphQL, and offering additional features.
 - [mylk](https://github.com/ri-nat/mylk) - Client library for [Ruby](https://www.ruby-lang.org/en/) with support for HTTP and WebSocket connections.
 - [surrealdb-cloudflare](https://github.com/theopensource-company/surrealdb-cloudflare) - A Typescript implementation for SurrealDB's HTTP API. Can also be used outside of Cloudflare.
 - [surrealdb-erlang](https://github.com/meppu/surreal) - Client library for [Erlang](https://erlang.org) and other BEAM languages.
